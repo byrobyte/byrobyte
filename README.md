@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Byro</h1> <h3 align="center">A Software Developer from the UK</h3>
-<div align="center"> <img src="https://github.com/byrobyte/byrobyte/blob/main/banner.jpg" alt="banner" width="600" height="250" style="border-radius: 10px; object-fit: cover;" /> </div>
 
 -🌱 I'm currently learning Cybersecurity and IT
 
