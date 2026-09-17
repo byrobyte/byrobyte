@@ -8,8 +8,8 @@
 - ⚡ Fun fact **I use arch btw**
 
 - 🤖 Past projects:
-- **Senior frontend developer for a startup called GENOFIND**
-- **Web3 token developer**
+ **Senior frontend developer for a startup called GENOFIND**
+ **Web3 token developer**
 
 
       
