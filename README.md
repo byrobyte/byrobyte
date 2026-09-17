@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Byro</h1>
 <h3 align="center">A Software Developer from the UK</h3>
 
+---
+![image](https://github.com/byrobyte/byrobyte/blob/main/banner.jpg)
+
 - 🌱 I’m currently learning **Cybersecurity and IT**
 
 - 💬 Ask me about **Linux**
