@@ -1,3 +1,5 @@
+![image](https://github.com/byrobyte/byrobyte/blob/main/fbe59d7921353f5e69325fddd878ddbc.jpg)
+
 <h1 align="center">Hi 👋, I'm Byro</h1> <h3 align="center">A Software Developer from the UK</h3>
 
 -🌱 I'm currently learning Cybersecurity and IT
