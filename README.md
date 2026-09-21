@@ -30,12 +30,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byrobyte&theme=tokyonight&hide_border=true)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=byrobyte&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=byrobyte&langs_count=4&theme=dark_github)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer%20%F0%9F%9A%80;Open%20Source%20Contributor%20%E2%9A%A1)](https://git.io/typing-svg)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
 
 
 </div>
